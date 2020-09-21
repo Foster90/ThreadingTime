@@ -43,8 +43,7 @@ namespace ThreadingTime
                 for (i = number - 1; i >= 1; i--)
                 {
                     fact = fact * i;
-                }
-                             
+                }                             
 
                 Invoke((MethodInvoker)delegate {
                     label2.Text = fact.ToString(); // runs on UI thread
