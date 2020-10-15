@@ -1,6 +1,6 @@
 # ThreadingTime
 
-Sencon Programming Exercises
+Programming Exercises
 
 Exercise 9:
 Create a Windows form with a label. Create a background thread that displays the current live time in the label.
